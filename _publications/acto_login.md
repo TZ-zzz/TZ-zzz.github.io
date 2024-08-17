@@ -2,7 +2,7 @@
 title: "Acto: Push-Button End-to-End Testing for Operation Correctness of Kubernetes Operators"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/acto_login
 date: 2024 August
 venue: ['USENIX ;login:'](https://www.usenix.org/publications/loginonline)
 paperurl: 'https://www.usenix.org/publications/loginonline/acto-push-button-end-end-testing-operation-correctness-kubernetes-operators'

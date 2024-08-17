@@ -18,6 +18,12 @@ Experience
 - **Advanced Micro and Nanosystems Laboratory** (Aug 2021 - April 2023)
     - Undergrad Research Assistant
 
+Publications
+======
+-**[ [;login:](https://www.usenix.org/publications/loginonline) ] Acto: Push-Button End-to-End Testing for Operation Correctness of Kubernetes Operators**
+Jiawei Tyler Gu, Xudong Sun, **Zhen Tang**, Chen Wang, Mandana Vaziri, Owolabi Legunsen, and Tianyin Xu
+USENIX ;login:, Aug. 2024.
+[[ web ](https://www.usenix.org/publications/loginonline/acto-push-button-end-end-testing-operation-correctness-kubernetes-operators)]  [[ project ](https://github.com/xlab-uiuc/acto)]
 
 Education
 ======
