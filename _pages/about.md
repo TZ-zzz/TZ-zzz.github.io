@@ -37,4 +37,4 @@ Education
 
 Misc
 ======
-I enjoy playing [games](https://www.celestegame.com/) and watching [anime](https://revuestarlight.com/)!
+I enjoy playing games and watching anime!
