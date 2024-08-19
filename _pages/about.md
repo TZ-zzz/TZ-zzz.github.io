@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Master of Computer Science student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). I received my B.S. in Computer Science from the [University of Toronto](https://www.utoronto.ca/).
 
-I am broadly interest in computer systems, particularly distributed systems. I am currently working on improving the reliability of cloud system management.
+I am broadly interest in computer systems, particularly distributed systems. I am currently working on improving the reliability of cloud system management under the supervision of [Prof. Tianyin Xu](https://tianyin.github.io).
 
 Experience
 ======
@@ -33,7 +33,7 @@ Education
 - **University of Toronto - St. George** (Sep 2019 - Jun 2023)
     - Honours Bachelor of Science with High Distinction
     - Computer Science Specialist
-    -  Dean’s List Scholar
+    - Dean’s List Scholar
 
 Misc
 ======
