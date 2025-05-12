@@ -27,12 +27,12 @@ USENIX ;login:, Aug. 2024.\
 
 Education
 ======
-- **University of Texas at Austin** (Aug 2025(expected) - )
+- **University of Texas at Austin** Aug 2025(expected) - 
 
-- **University of Illinois at Urbana-Champaign** (Aug 2023 - Jan 2025)
+- **University of Illinois at Urbana-Champaign** Aug 2023 - Jan 2025
     - Master of Computer Science
 
-- **University of Toronto - St. George** (Sep 2019 - Jun 2023)
+- **University of Toronto - St. George** Sep 2019 - Jun 2023
     - Honours Bachelor of Science with High Distinction
     - Dean’s List Scholar
 
