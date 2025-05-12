@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master of Computer Science student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). I received my B.S. in Computer Science from the [University of Toronto](https://www.utoronto.ca/).
+I am an incoming PhD student in Electrical and Computer Engineering at the [University of Texas at Austin](https://www.ece.utexas.edu/). Previously, I received my master's degree from the [University of Illinois at Urbana-Champaign](https://illinois.edu/) and bachelor's degree from the [University of Toronto](https://www.utoronto.ca/).
 
-I am broadly interest in computer systems, particularly distributed systems. I am currently working on improving the reliability of cloud system management under the supervision of [Prof. Tianyin Xu](https://tianyin.github.io).
+I am broadly interest in computer systems, particularly distributed systems. I was working on improving the reliability of cloud system management under the supervision of [Prof. Tianyin Xu](https://tianyin.github.io).
 
 Experience
 ======
-- **Xlab** (April 2024 - now)
+- **Xlab** (April 2024 - April 2025)
     - Research Intern
 - **Advanced Micro and Nanosystems Laboratory** (Aug 2021 - April 2023)
     - Undergrad Research Assistant
@@ -27,12 +27,13 @@ USENIX ;login:, Aug. 2024.\
 
 Education
 ======
-- **University of Illinois at Urbana-Champaign** Aug 2023 - now
+- **University of Texas at Austin** (Aug 2025(expected) - )
+
+- **University of Illinois at Urbana-Champaign** (Aug 2023 - Jan 2025)
     - Master of Computer Science
 
 - **University of Toronto - St. George** (Sep 2019 - Jun 2023)
     - Honours Bachelor of Science with High Distinction
-    - Computer Science Specialist
     - Dean’s List Scholar
 
 Misc
