@@ -24,11 +24,11 @@ Publications
 ======
 - **[ [NSDI'26](https://www.usenix.org/conference/nsdi26) ] Who Watches the Watchers? On the Reliability of Softwarizing Cloud Application Management**\
 Jiawei Tyler Gu, **Zhen Tang**, Yiming Su, Bogdan A. Stoica, Xudong Sun, William X. Zheng, Yue Zhang, Akond Rahman, Chen Wang, and Tianyin Xu\
-In Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI'26), Renton, WA, May, 2026\
+*In Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI'26), Renton, WA, May, 2026*\
 [[ pdf ]()]  [[ project ](https://github.com/xlab-uiuc/acto)]
 - **[ [;login:](https://www.usenix.org/publications/loginonline) ] Acto: Push-Button End-to-End Testing for Operation Correctness of Kubernetes Operators**\
 Jiawei Tyler Gu, Xudong Sun, **Zhen Tang**, Chen Wang, Mandana Vaziri, Owolabi Legunsen, and Tianyin Xu\
-USENIX ;login:, Aug. 2024.\
+*USENIX ;login:, Aug. 2024.*\
 [[ web ](https://www.usenix.org/publications/loginonline/acto-push-button-end-end-testing-operation-correctness-kubernetes-operators)]  [[ project ](https://github.com/xlab-uiuc/acto)]
 
 Education
