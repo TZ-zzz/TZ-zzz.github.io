@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year PhD student in Electrical and Computer Engineering at the [University of Texas at Austin](https://www.ece.utexas.edu/). I previously earned my master’s degree from the [University of Illinois at Urbana-Champaign](https://illinois.edu/) and bachelor's degree from the [University of Toronto](https://www.utoronto.ca/).
 
-My research interests broadly span computer systems, security and computer architecture. I am currently working with [Prof. Neil Zhao](https://zzrcxb.me/) on the topic of microservice security. Previousl, I worked on improving the reliability of cloud system management under the supervision of [Prof. Tianyin Xu](https://tianyin.github.io).
+My research interests broadly span computer systems, security and computer architecture. I am currently working with [Prof. Neil Zhao](https://zzrcxb.me/) on the topic of microservice security. Previously, I worked on improving the reliability of cloud system management under the supervision of [Prof. Tianyin Xu](https://tianyin.github.io).
 
 Experience
 ======
